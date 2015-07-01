@@ -1,0 +1,28 @@
+{
+  "name": "node-igdb",
+  "version": "0.0.1",
+  "description": "Unnoficial javascript sdk for the Internet Game Database API (https://www.igdb.com/about)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenCordeiro/node-igdb.git"
+  },
+  "keywords": [
+    "games",
+    "gaming",
+    "database",
+    "gaming-industry",
+    "retail",
+    "scores",
+    "ratings"
+  ],
+  "author": "Ruben Fernando Pinto Cordeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RubenCordeiro/node-igdb/issues"
+  },
+  "homepage": "https://github.com/RubenCordeiro/node-igdb#readme"
+}
